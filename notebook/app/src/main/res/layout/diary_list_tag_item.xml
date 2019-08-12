@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EBEBEB"
+    android:orientation="vertical" xmlns:app="http://schemas.android.com/apk/res/com.example.gsf98.notebook">
+
+    <com.example.gsf98.notebook.view.IconTextView
+        android:id="@+id/diary_list_tag_item_text"
+        android:padding="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="20sp" />
+
+</LinearLayout>

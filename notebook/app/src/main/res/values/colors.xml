@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="bg">#ffffffff</color>
+    
+    <color name="bg_sep">#8e8e8e</color>
+    <color name="bg_text">#000000</color>
+    <color name="edt_olor">#333333</color>
+    
+    <color name="clr_text_front">#787878</color>
+
+    <color name="card_pressed">#ebebeb</color>
+    <color name="card_activated">#5F0099CC</color>
+    <color name="card_gray">#e5e5e5</color>
+    
+	<color name="bbutton_inverse">#ff0a0a0a</color>
+    
+    <color name="clr_tag_text_normal">#737573</color>
+    <color name="clr_tag_text_focus">#ffffff</color>
+    
+    <color name="clr_tag_bg">#5a5a5a</color>
+    <color name="clr_tag_bg2">#e6e6e6</color>
+    
+    <color name="clr_tag0">#0077d9</color>
+    <color name="clr_tag1">#4958cd</color>
+    <color name="clr_tag2">#5771a3</color>
+    <color name="clr_tag3">#239dad</color>
+    <color name="clr_tag4">#ffab19</color>
+    <color name="clr_tag5">#4188f0</color>
+    <color name="clr_tag6">#a865cd</color>
+    <color name="clr_tag7">#86b73c</color>
+    <color name="clr_tag8">#d8513e</color>
+    <color name="clr_tag9">#3cbaff</color>
+    <color name="clr_tag10">#ae5170</color>
+    <color name="clr_tag11">#ffe16e</color>
+    <color name="clr_tag12">#e7718d</color>
+    <color name="clr_tag13">#7baca9</color>
+    <color name="clr_tag14">#ffc336</color>
+    <color name="clr_tag15">#8b5f26</color>
+    <color name="clr_tag16">#8e76cc</color>
+    <color name="clr_tag17">#8cbddc</color>
+    <color name="clr_tag18">#ff7678</color>
+    <color name="clr_tag19">#879178</color>
+    <color name="clr_tag20">#78cbd5</color>
+    <color name="clr_tag21">#a2786a</color>
+    <color name="clr_tag22">#b4b953</color>
+    <color name="clr_tag23">#3796e2</color>
+    <color name="clr_tag24">#56a72e</color>
+    <color name="clr_tag25">#3fb283</color>
+    <color name="clr_tag26">#ce49c2</color>
+    <color name="clr_tag27">#b969e5</color>
+    <color name="clr_tag28">#f1914f</color>
+    <color name="clr_tag29">#f4564d</color>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">心情日记本</string>
+	
+	<string name="hint_title">日记标题</string>
+	<string name="hint_content">日记内容</string>
+	<string name="hint_tag">标签</string>
+	
+	<string name="con_tag">按照标签筛选</string>
+	<string name="con_month">按照月份筛选</string>
+	<string name="con_type">按照类型筛选</string>
+	<string name="con_tags">按照标签筛选</string>
+	
+	<string name="type_diary">日记</string>
+	<string name="type_photo">照片</string>
+	<string name="type_audio">录音</string>
+    
+    <string name="please_title">请输入标题</string>
+	<string name="please_content">请输入内容</string>
+	<string name="please_mood">请选择心情</string>
+	
+    <string name="action_save">保存</string>
+    <string name="action_edit">修改</string>
+    <string name="action_delete">删除</string>
+    <string name="action_share">Share</string>
+    
+    <string name="notify_content">亲，今天不写点儿什么吗？</string>
+    
+    <string name="menu_comment">评价</string>
+    <string name="menu_export">导出</string>
+    <string name="menu_import">导入</string>
+</resources>

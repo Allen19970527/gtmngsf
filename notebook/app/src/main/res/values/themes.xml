@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme.MD" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/Widget.MD.ActionBar</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverFlow</item>
+    </style>
+
+    <!-- 标题栏的样式 -->
+    <style name="Widget.MD.ActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/bg_head</item>
+        <item name="android:backgroundStacked">@drawable/bg_head</item>
+        <item name="android:backgroundSplit">@drawable/bg_head</item>
+        <item name="android:titleTextStyle">@style/Widget.MD.ActionBar.Title</item>
+    </style>
+
+    <style name="OverFlow" parent="@android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_action_navigation_more_vert</item>
+    </style>
+
+    <!-- 标题栏的标题样式 -->
+    <style name="Widget.MD.ActionBar.Title" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+</resources>

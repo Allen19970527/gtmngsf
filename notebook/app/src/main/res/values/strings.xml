@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Moodiary</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+	
+	<string name="hint_title">Diary title</string>
+	<string name="hint_content">Diary content</string>
+	<string name="hint_tag">Tag</string>
+	
+	<string name="con_tag">Sort by tag</string>
+	<string name="con_month">Sort by calendar</string>
+	<string name="con_type">Sort by type</string>
+	<string name="con_tags">Sort by tags</string>
+	
+	<string name="type_diary">Diary</string>
+	<string name="type_photo">Photo</string>
+	<string name="type_audio">Audio</string>
+	
+	<string name="please_title">please input title</string>
+	<string name="please_content">please input content</string>
+	<string name="please_mood">please select mood</string>
+    
+    <string name="action_save">Save</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_share">Share</string>
+    
+    <string name="notify_content">Dont you want to write something?</string>
+    
+    <string name="menu_comment">Comment</string>
+    <string name="menu_export">Export</string>
+    <string name="menu_import">Import</string>
+</resources>
+
